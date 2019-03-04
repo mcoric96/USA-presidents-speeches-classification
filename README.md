@@ -14,3 +14,4 @@ NLTK , re ,  math , random
 
 **Evaluation:** precision , recall and f1 measure.
 
+**See NLP course project.ipynb**
