@@ -3,7 +3,7 @@
 Datasets: speeches by 3 American presidents Bush , Obama and Trump. <br>
 The goal is to train system to recognize the author for a given text. <br>
 **Multinominal logistic regression using stohastic gradient descent for optimizing loss function.** <br>
-Components: 
+Components: <br>
 1.feature representation <br>
 2.softmax function - calculating probabilities for each class <br>
 3.cost function - cross-entropy cost function for minimazing model error <br>
@@ -13,3 +13,4 @@ Components:
 NLTK , re ,  math , random
 
 **Evaluation:** precision , recall and f1 measure.
+
