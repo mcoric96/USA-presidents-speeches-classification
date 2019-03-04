@@ -12,4 +12,4 @@ Components:
 ### Python libraries
 NLTK , re ,  math , random
 
-**Evaluation: ** precision , recall and f1 measure.
+**Evaluation:** precision , recall and f1 measure.
