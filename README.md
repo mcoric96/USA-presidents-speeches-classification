@@ -1,7 +1,7 @@
 # USA presidents speeches classification
 
 <p align="center">
-  <width="750" height="300" img src="https://www.latimes.com/projects/la-na-pol-trump-obama-bush-cabinet/static/img/topper.png">
+  <img width="750" height="300" src="https://www.latimes.com/projects/la-na-pol-trump-obama-bush-cabinet/static/img/topper.png">
 </p>
 
 ## Natural language processing course
