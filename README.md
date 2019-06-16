@@ -1,4 +1,9 @@
-# Presidents-speeches-classification
+# USA presidents-speeches-classification
+
+<p align="center">
+  <img src="https://www.latimes.com/projects/la-na-pol-trump-obama-bush-cabinet/static/img/topper.png">
+</p>
+
 ## Natural language processing course
 Datasets: speeches by 3 American presidents Bush , Obama and Trump. <br>
 The goal is to train system to recognize the author for a given text. <br>
