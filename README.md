@@ -1,4 +1,4 @@
-# USA presidents-speeches-classification
+# USA presidents speeches classification
 
 <p align="center">
   <img src="https://www.latimes.com/projects/la-na-pol-trump-obama-bush-cabinet/static/img/topper.png">
